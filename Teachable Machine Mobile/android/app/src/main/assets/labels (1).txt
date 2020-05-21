@@ -1,0 +1,20 @@
+0 saars
+1 Pneumocistose
+2 pneumonia aspiração
+3 pneumonia cavitante
+4 pneumonia-clamídia-L
+5 pneumonia por Klebsiella
+6 pneumonia legionella
+7 pneumonia pneumococcal
+8 pneumonia pneumocystis carinii
+9 pneumonia pneumocystis jirovecii
+10 pneumonia pneumocystis-
+11 Pneumonia Streptococcus 
+12 NORMAL
+13 Pneumonia
+14 Covid-19 ARDS
+15 Covid-19 & Pneumonia
+16 Covid-19 Tomografia Coputadorizada 
+17 Não Covid-19 Tomografia Computadorizada 
+18 Covid-19
+19 NIMG
